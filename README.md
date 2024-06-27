@@ -1,4 +1,4 @@
-This folder contains the input data i.e. refiend genotype, map file and phenotypic data used for our manuscript submitted to The Plant Gneome entitles "Accounting for population structure in genomic prediction of strawberry sweetness at a global scale"
+This folder contains the input data i.e. refined genotype, map file and phenotypic data used for our manuscript submitted to The Plant Gneome entitles "Accounting for population structure in genomic prediction of strawberry sweetness at a global scale"
 
 The analysis requires several R packages, most notably ASReml-R.
 
