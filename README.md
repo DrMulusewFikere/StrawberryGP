@@ -1,7 +1,13 @@
-This folder contains the input data i.e. refined genotype, map file and phenotypic data used for our manuscript submitted to The Plant Gneome entitles "Accounting for population structure in genomic prediction of strawberry sweetness at a global scale"
+Data for Manuscript: "Accounting for Population Structure in Genomic Prediction of Strawberry Sweetness at a Global Scale"
 
+This repository contains the refined genotype, map file, and phenotypic data used in our manuscript submitted to The Plant Genome.
+
+Requirements
 The analysis requires several R packages, most notably ASReml-R.
 
-Phenotypic, genotypic and SNP map data is available under folder Data. Also under this a tar.zipped files containing code and output(workspace).
+Data and Code
+Data: The folder Data contains the phenotypic, genotypic, and SNP map data.
+Code and Output: Within the Data folder, you'll find a tar-zipped file that includes the code and output (workspace).
+Contact
+For additional information, please contact: mulusewfikere@gmail.com
 
-If you need additional information please contact me : mulusewfikere@gmail.com
