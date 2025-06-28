@@ -1,3 +1,4 @@
+#README
 Data for Manuscript: "Accounting for Population Structure in Genomic Prediction of Strawberry Sweetness at a Global Scale"
 
 This repository contains the refined genotype, map file, and phenotypic data used in our manuscript submitted to Sci Report.
