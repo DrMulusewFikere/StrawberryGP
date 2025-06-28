@@ -1,6 +1,6 @@
 Data for Manuscript: "Accounting for Population Structure in Genomic Prediction of Strawberry Sweetness at a Global Scale"
 
-This repository contains the refined genotype, map file, and phenotypic data used in our manuscript submitted to The Plant Genome.
+This repository contains the refined genotype, map file, and phenotypic data used in our manuscript submitted to Sci Report.
 
 Requirements
 The analysis requires several R packages, most notably ASReml-R.
