@@ -11,3 +11,4 @@ Code and Output: Within the Data folder, you'll find a tar-zipped file that incl
 Contact
 For additional information, please contact: mulusewfikere@gmail.com
 
+## Population structure and Imputation
