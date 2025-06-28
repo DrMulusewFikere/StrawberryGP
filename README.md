@@ -4,7 +4,7 @@ Data for Manuscript: "Accounting for Population Structure in Genomic Prediction 
 This repository contains the refined genotype, map file, and phenotypic data used in our manuscript submitted to Sci Report.
 
 Requirements
-The analysis requires several R packages, most notably ASReml-R.
+The analysis requires several R packages, most notably ASReml-R, FIMPUTE, ADMIXTURE.
 
 Data and Code
 Data: The folder Data contains the phenotypic, genotypic, and SNP map data.
