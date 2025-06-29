@@ -20,12 +20,17 @@ Genotype imputation was performed using a deterministic algorithm implemented in
 To investigate the impact of population structure on genomic prediction accuracy, three approaches were used to construct the additive genomic relationship matrix (GRM). These included the standard GBLUP method using average allele frequencies across all populations, a re-parameterized GBLUP model using eigenvalue decomposition of the GRM, and a structure-corrected GRM based on population-specific allele frequencies. Modeling was performed in R using ASReml-R v4.0, where within-location genomic environments were defined by trial-season combinations with homogeneous variances. Initial models were fitted separately by location and trial to identify the most parsimonious structure based on Akaike Information Criterion (AIC), followed by combined multi-trial models. A final multi-trial model using a factor analytic (FA) approach was fitted to account for genotype-by-environment interactions, with FA1 to FA3 models compared to select the best-fitting and most parsimonious option.
 
 ## 3. Description of the Pipeline for Model Implementation
-Below we have discussed the pipeline implementation and input/output (I/O) structure
-#### 3.1. QC raw data
-#### 3.2. Genomic relationship matrix an population structure
-#### 3.3. Individual trial model
-#### 3.4. Multi-trial and factor analytic (FA) model
-  ##### 3.4.1. Standard GBLUP model (Gfa)
-  ##### 3.4.2. Incorporating PCA eigen values and re-parametrization of the GBLUP method (Pfa)
-  ##### 3.4.3. A multi-population GBLUP approach where the sub-population genomic relationship matrix is fitted in the prediction model (Wfa)
+Below, we describe the pipeline implementation and input/output (I/O) structure.
+#### 3.1. QC of Raw Data
+#### 3.2. Genomic Relationship Matrix and Population Structure
+#### 3.3. Individual Trial Model
+#### 3.4. Multi-Trial and Factor Analytic (FA) Model
+  ##### 3.4.1. Standard GBLUP Model (Gfa)
+  ##### 3.4.2. Incorporating PCA Eigenvalues and Re-Parameterization of the GBLUP Method (Pfa)
+  ##### 3.4.3. Multi-Population GBLUP Approach Using Sub-Population Genomic Relationship Matrix (Wfa)
 ## 4. R Code and Command-Line Scripts (HPC Linux Environment) for Generating Figures
+#### 4.1. Marker Density and Distribution of SNPs Across the Strawberry Genome
+#### 4.2. Genomic Relationship
+#### 4.3. Principal Coordinate Analysis (PCoA) and Selection of K Values
+#### 4.4. Population Structure Using ADMIXTURE and Cross-Validation Error for K Selection
+#### 4.5. Variance Component and Prediction Accuracy Plots
