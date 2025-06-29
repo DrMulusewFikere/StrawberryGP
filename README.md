@@ -30,7 +30,7 @@ Below, we describe the pipeline implementation and input/output (I/O) structure.
   ##### *3.4.3. Multi-Population GBLUP Approach Using Sub-Population Genomic Relationship Matrix (Wfa)*
 ## 4. R Code and Command-Line Scripts (HPC Linux Environment) for Generating Figures <sub><sup>🚧 *Work in Progress*</sup></sub>
 #### 4.1. Marker Density and Distribution of SNPs Across the Strawberry Genome
-#### 4.2. Genomic Relationship
+#### 4.2. Constructing Genomic Relationship
 #### 4.3. Principal Coordinate Analysis (PCoA) and Selection of K Values
 #### 4.4. Population Structure Using ADMIXTURE and Cross-Validation Error for K Selection
 #### 4.5. Variance Component and Prediction Accuracy Plots
