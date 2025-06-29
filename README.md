@@ -28,3 +28,4 @@ Below we have discussed the pipeline implementation and input/output (I/O) struc
   ##### 3.4.1. Standard GBLUP model (Gfa)
   ##### 3.4.2. Incorporating PCA eigen values and re-parametrization of the GBLUP method (Pfa)
   ##### 3.4.3. A multi-population GBLUP approach where the sub-population genomic relationship matrix is fitted in the prediction model (Wfa)
+## 4. R Code and Command-Line Scripts (HPC Linux Environment) for Generating Figures
