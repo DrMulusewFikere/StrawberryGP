@@ -25,6 +25,6 @@ Below we have discussed the pipeline implementation and input/output (I/O) struc
 #### 3.2. Genomic relationship matrix an population structure
 #### 3.3. Individual trial model
 #### 3.4. Multi-trial and factor analytic (FA) model
-##### 3.4.1. Standard GBLUP model (Gfa)
-##### 3.4.2. Incorporating PCA eigen values and re-parametrization of the GBLUP method (Pfa)
-##### 3.4.3. A multi-population GBLUP approach where the sub-population genomic relationship matrix is fitted in the prediction model (Wfa)
+  ##### 3.4.1. Standard GBLUP model (Gfa)
+  ##### 3.4.2. Incorporating PCA eigen values and re-parametrization of the GBLUP method (Pfa)
+  ##### 3.4.3. A multi-population GBLUP approach where the sub-population genomic relationship matrix is fitted in the prediction model (Wfa)
