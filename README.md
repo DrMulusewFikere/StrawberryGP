@@ -1,8 +1,8 @@
 ## Content
-### Manuscript title 
+### Manuscript Title
 "Accounting for Population Structure in Genomic Prediction of Strawberry Sweetness at a Global Scale"
 
-This repository contains the refined genotype, map file, and phenotypic data used in our manuscript submitted to Sci Report.
+This repository contains the input/output (I/O) data and pipeline used to replicate the study. The manuscript has been submitted to *Scientific Reports*.
 
 ### Requirements
 The analysis requires several R packages, most notably ASReml-R, FIMPUTE, ADMIXTURE.
